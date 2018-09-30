@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hive搭建"
-date:   2017-12-23 01:00:00
+date:   2018-08-24 01:00:00
 categories: Machine Learning
 excerpt: Hive搭建
 ---
