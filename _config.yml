@@ -20,8 +20,8 @@ repository: bigleft0/bigleft0.github.io # ex. bigleft/bigleft.github.io
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://bigleft0.com
-enforce_ssl: bigleft0.com
+url: https://bigleft0.github.io
+#enforce_ssl: bigleft0.com
 
 ## Gem
 gems:
